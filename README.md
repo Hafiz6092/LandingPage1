@@ -15,9 +15,9 @@
 
 - [x] Create a portfolio website that showcases your skills and experiences
 
-- [ ] Create a 2-min video explaining your portfolio website design, inspiration, and future plans
+- [x] Create a 2-min video explaining your portfolio website design, inspiration, and future plans
 
-- [ ] By Friday 7/26 6pm EST, make a Reddit post titled [Project 1 | Name | Page URL] with your live portfolio website link
+- [x] By Friday 7/26 6pm EST, make a Reddit post titled [Project 1 | Name | Page URL] with your live portfolio website link
 
 - [ ] Bonus: Buy and connect to a custom domain for your portfolio website
 
