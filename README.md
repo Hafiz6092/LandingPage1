@@ -6,12 +6,14 @@
 ### Video Walkthrough
  <div>
     <a href="https://www.loom.com/share/9e4fa70c986e49c595e082d3ececcba6">
-      <p>Portfolio Website Design and Future Plans - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/9e4fa70c986e49c595e082d3ececcba6">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9e4fa70c986e49c595e082d3ececcba6-5efb3823ddc03829-full-play.gif">
     </a>
   </div>
+
+
+  YouTube Video [Link]([https://pages.github.com/](https://youtu.be/8H3YIlV9Ytg))
 
 - [x] Create a portfolio website that showcases your skills and experiences
 
