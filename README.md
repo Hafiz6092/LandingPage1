@@ -1,4 +1,4 @@
-[ ] Create a portfolio website that showcases your skills and experiences
+[x] Create a portfolio website that showcases your skills and experiences
 
 [] Create a 2-min video explaining your portfolio website design, inspiration, and future plans
 
