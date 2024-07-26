@@ -2,8 +2,8 @@
 
 
 
-# _Tutorial Video of my Portfolio_
-# Video Walkthrough
+### _Tutorial Video of my Portfolio_
+### Video Walkthrough
  <div>
     <a href="https://www.loom.com/share/9e4fa70c986e49c595e082d3ececcba6">
       <p>Portfolio Website Design and Future Plans - Watch Video</p>
