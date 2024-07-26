@@ -7,7 +7,7 @@
 YouTube Video [Link](https://youtu.be/8H3YIlV9Ytg)
 
 
-### ***Project Checklist***
+### _Project Checklist_
 
 - [x] Create a portfolio website that showcases your skills and experiences
 
