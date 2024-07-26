@@ -1,10 +1,13 @@
-## _Ghulam Ahmed Portfolio_
+# _Ghulam Ahmed Portfolio_
 
 
 <img width="1360" alt="Screenshot 2024-07-26 at 6 30 15 PM" src="https://github.com/user-attachments/assets/9e8b9447-b349-45e4-bc4b-b121cb2927fb">
 
-### Video Walkthrough
+## Video Walkthrough
 YouTube Video [Link](https://youtu.be/8H3YIlV9Ytg)
+
+
+### ***Project Checklist***
 
 - [x] Create a portfolio website that showcases your skills and experiences
 
