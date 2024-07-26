@@ -3,17 +3,10 @@
 
 
 ### _Tutorial Video of my Portfolio_
+<img width="1360" alt="Screenshot 2024-07-26 at 6 30 15 PM" src="https://github.com/user-attachments/assets/9e8b9447-b349-45e4-bc4b-b121cb2927fb">
+
 ### Video Walkthrough
- <div>
-    <a href="https://www.loom.com/share/9e4fa70c986e49c595e082d3ececcba6">
-    </a>
-    <a href="https://www.loom.com/share/9e4fa70c986e49c595e082d3ececcba6">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9e4fa70c986e49c595e082d3ececcba6-5efb3823ddc03829-full-play.gif">
-    </a>
-  </div>
-
-
-  YouTube Video [Link](https://youtu.be/8H3YIlV9Ytg)
+YouTube Video [Link](https://youtu.be/8H3YIlV9Ytg)
 
 - [x] Create a portfolio website that showcases your skills and experiences
 
