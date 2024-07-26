@@ -28,14 +28,14 @@
 
             <!-- About Me -->
             <section id="one">
-                <header class="major">
-                    <h2>About Me</h2>
-                </header>
-                <p>I am a software engineer with a strong background in AI and machine learning, focused on financial inclusion and economic mobility. With experience in both front-end and back-end development, I am passionate about creating solutions that make a difference.</p>
-                <ul class="actions">
-                    <li><a href="resume.pdf" class="button">Download Resume</a></li>
-                </ul>
-            </section>
+				<header class="major">
+					<h2>About Me</h2>
+				</header>
+				<p>I am a software engineer with a strong background in AI and machine learning, focused on financial inclusion and economic mobility. With experience in both front-end and back-end development, I am passionate about creating solutions that make a difference.</p>
+				<ul class="actions">
+					<li><a href="resume/Ghulam.Ahmed-Resume.pdf" class="button">Download Resume</a></li>
+				</ul>
+			</section>
 
             <!-- Education -->
             <section id="two">
@@ -107,39 +107,48 @@
 
             <!-- Contact -->
             <section id="six">
-                <h2>Get In Touch</h2>
-                <p>Feel free to reach out to me for collaborations or any questions.</p>
-                <div class="row">
-                    <div class="col-8 col-12-small">
-                        <form method="post" action="your-form-handler-url">
-                            <div class="row gtr-uniform gtr-50">
-                                <div class="col-6 col-12-xsmall"><input type="text" name="name" id="name" placeholder="Name" /></div>
-                                <div class="col-6 col-12-xsmall"><input type="email" name="email" id="email" placeholder="Email" /></div>
-                                <div class="col-12"><textarea name="message" id="message" placeholder="Message" rows="4"></textarea></div>
-                            </div>
-                        </form>
-                        <ul class="actions">
-                            <li><input type="submit" value="Send Message" /></li>
-                        </ul>
-                    </div>
-                    <div class="col-4 col-12-small">
-                        <ul class="labeled-icons">
-                            <li>
-                                <h3 class="icon solid fa-home"><span class="label">Address</span></h3>
-                                Brooklyn, NY
-                            </li>
-                            <li>
-                                <h3 class="icon solid fa-mobile-alt"><span class="label">Phone</span></h3>
-                                929-530-4895
-                            </li>
-                            <li>
-                                <h3 class="icon solid fa-envelope"><span class="label">Email</span></h3>
-                                <a href="mailto:Ghulamnabia75@gmail.com">Ghulamnabia75@gmail.com</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </section>
+				<h2>Get In Touch</h2>
+				<p>Feel free to reach out to me for collaborations or any questions.</p>
+				<div class="row">
+					<div class="col-8 col-12-small">
+						<form id="contact-form" method="post" action="https://formspree.io/f/mblrgrnn">
+							<div class="row gtr-uniform gtr-50">
+								<div class="col-6 col-12-xsmall">
+									<input type="text" name="name" id="name" placeholder="Name" required />
+								</div>
+								<div class="col-6 col-12-xsmall">
+									<input type="email" name="email" id="email" placeholder="Email" required/>
+								</div>
+								<div class="col-12">
+									<textarea name="message" id="message" placeholder="Message" rows="4" required></textarea>
+								</div>
+							</div>
+							<ul class="actions">
+								<li>
+									<button type="submit" class="contact-form-submit">Send Message</button>
+								</li>
+							</ul>
+						</form>
+					</div>
+					<div class="col-4 col-12-small">
+						<ul class="labeled-icons">
+							<li>
+								<h3 class="icon solid fa-home"><span class="label">Address</span></h3>
+								NY, USA
+							</li>
+							<li>
+								<h3 class="icon solid fa-mobile-alt"><span class="label">Phone</span></h3>
+								929-530-4895
+							</li>
+							<li>
+								<h3 class="icon solid fa-envelope"><span class="label">Email</span></h3>
+								<a href="mailto:Ghulamnabia75@gmail.com">Ghulamnabia75@gmail.com</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</section>
+			
 
         </div>
 
@@ -147,7 +156,7 @@
         <footer id="footer">
             <div class="inner">
                 <ul class="icons">
-                    <li><a href="https://twitter.com/yourprofile" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+                    <!-- <li><a href="https://twitter.com/yourprofile" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li> -->
                     <li><a href="https://github.com/Hafiz6092" class="icon brands fa-github"><span class="label">Github</span></a></li>
                     <li><a href="https://linkedin.com/in/ghulam-n-ahmed-668b45259" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
                     <li><a href="mailto:Ghulamnabia75@gmail.com" class="icon solid fa-envelope"><span class="label">Email</span></a></li>

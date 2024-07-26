@@ -3225,3 +3225,42 @@ input, select, textarea {
 			}
 
 	}
+
+	/* Place this at the end of your existing CSS file, before media queries */
+/* Add this to the end of your existing CSS file */
+.contact-form-submit {
+    background-color: transparent;
+    border-radius: 0.35em;
+    border: solid 2px #efefef;
+    color: #a2a2a2;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 400;
+    height: 3.15em;
+    height: calc(2.75em + 6px);
+    line-height: 2.75em;
+    min-width: 10em;
+    padding: 1 1.5em;
+    text-align: center;
+    text-decoration: none;
+    white-space: nowrap;
+    transition: background-color 0.3s ease, color 0.3s ease;
+	margin-top: 10px;
+}
+
+.contact-form-submit:hover {
+    background-color: #efefef;
+    color: #787878;
+}
+
+.contact-form-submit:active {
+    background-color: #dcdcdc;
+    color: #787878;
+}
+
+.contact-form-submit:disabled {
+    background-color: #e7e7e7 !important;
+    border-color: #e7e7e7 !important;
+    color: #b2b2b2 !important;
+    cursor: default;
+}
