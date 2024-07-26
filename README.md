@@ -13,7 +13,7 @@
   </div>
 
 
-  YouTube Video [Link]([https://pages.github.com/](https://youtu.be/8H3YIlV9Ytg))
+  YouTube Video [Link](https://youtu.be/8H3YIlV9Ytg)
 
 - [x] Create a portfolio website that showcases your skills and experiences
 
